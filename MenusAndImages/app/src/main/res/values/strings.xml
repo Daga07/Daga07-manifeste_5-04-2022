@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenusAndImages</string>
+    <string name="estudiantes">estudiantes</string>
+    <string name="profesores">profesores</string>
+    <string name="acudientes">acudientes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
